@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+width: 90%;
+margin: auto;
+overflow:auto;
+margin-top: 30px;
+}
+.logo{
+width:20%;
+float:left;
+}
+.logo img{
+
+}
+.menu{
+    width:50%;
+    float:right;
+
+}
+.menu ul{
+    list-style: none;
+    float: right;
+
+}
+.menu ul li{
+    margin-left:30px;
+    float: left;
+
+}
+.menu ul li a{
+    color: #626262;
+    text-decoration: none;
+    text-transform:uppercase ;
+}
+.banner{
+
+    width: 90%; 
+    margin: auto;
+    margin-top: 50px;
+    }
+    .banner img{
+        
+    width: 100%;
+    }
+    .photodairy{
+        width: 80%;
+        margin:70px auto;
+
+    }
+    .photodairy h5{
+        color: #b4ad9e;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+
+    }
+    .photodairy h1{
+        color:#626262;
+        margin-bottom:20px ;
+        font-size: 40px;
+
+    }
+    .photodairy p{
+        color: #626262;
+        font-size: 15px;
+        margin-bottom: 30px;
+
+
+    }
+    .photodairy a{
+        color: #b4ad9e;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-bottom: 40px;
+
+    }
+    .lifestyle{
+        width:80%;
+        overflow: hidden;
+        margin: auto;
+
+    }
+    .left{
+       float: left;
+    } 
+    .right{
+        float:right;
+    }
+
